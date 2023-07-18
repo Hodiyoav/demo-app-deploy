@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/Hodiyoav/demo-app
-  newTag: 3b42d7c35ef2cea0a2672e9135d9e12d19b7e170
+  newTag: e5807dde3bbe3d8d7c38730e98bffa3961088d85
